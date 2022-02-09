@@ -1,5 +1,7 @@
 public class MainClass
 {
+    private static String isim = "blabla";
+
     public static void main(String[] args)
     {
         Person person = new Person();
