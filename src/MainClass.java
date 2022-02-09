@@ -10,4 +10,7 @@ public class MainClass
         System.out.println("beşinci commit"); //Gtopsakal.
         System.out.println("altıncı commit"); //Gtopsakal.
     }
+    public void tehlikeliMetod()
+    {
+    }
 }
