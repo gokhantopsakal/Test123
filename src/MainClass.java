@@ -6,5 +6,6 @@ public class MainClass
         person.setIsim("numan");
         System.out.println(person.getIsim());
         System.out.println("Üçüncü commit için");
+        System.out.println("dördüncü commit"); //Gtopsakal.
     }
 }
