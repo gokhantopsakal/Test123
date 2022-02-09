@@ -1,6 +1,6 @@
 public class MainClass
 {
-    private static String isim = "blabla";
+    private static String isim = "numan karaaslan";
 
     public static void main(String[] args)
     {
