@@ -12,6 +12,7 @@ public class MainClass
         System.out.println("yedinci commit test"); //Gtopsakal.test***
         System.out.println("sekizinci commit test"); //Gökhan Topsakal
         System.out.println("dokuz commit test"); //Migros
+        System.out.println("10. commit test"); //Migros
 
     }
 }
