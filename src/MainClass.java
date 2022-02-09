@@ -17,9 +17,7 @@ public class MainClass
         System.out.println("10. commit test"); //Migros
 
     }
-
     public void tehlikeliMetod()
     {
-        System.out.println(7 / 0);
     }
 }
